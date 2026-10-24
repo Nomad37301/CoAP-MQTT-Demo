@@ -1,0 +1,5 @@
+.build/
+demo_mqtt/mosquitto.runtime.conf
+**/NetworkConfig.h
+Thumbs.db
+.DS_Store
